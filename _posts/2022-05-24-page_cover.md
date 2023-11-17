@@ -4,7 +4,7 @@ author: Tao He
 date: 2022-05-24
 category: Jekyll
 layout: post
-cover: https://qwop112.github.io/jekyll-gitbook/assets/pukyong.png
+cover: https://qwop112.github.io/qwop112.github.io/assets/pukyong.png
 ---
 
 The jekyll-gitbook theme supports adding a cover image to a specific page by adding
