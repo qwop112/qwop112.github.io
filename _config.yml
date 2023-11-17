@@ -1,7 +1,7 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            github pages title (oss lecture)
+longtitle:        github pages longtitle (oss lecture)
+author:           Eunchan Jeong
 email:            sighingnow@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
